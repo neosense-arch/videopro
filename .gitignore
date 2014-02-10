@@ -14,5 +14,5 @@
 /app/spool/
 /vendor/
 /.idea
-/composer.lock
 /*.sql
+/bin
